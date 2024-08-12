@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: MQBench
+Version: 0.0.6
+Summary: Quantization aware training.
+Author: The Great Cold
+Author-email: 
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: POSIX :: Linux
+Requires-Python: >=3.6
+License-File: LICENSE
+
+UNKNOWN
