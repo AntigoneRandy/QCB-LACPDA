@@ -1,12 +1,11 @@
 # Official PyTorch Implementation of "Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation" (ICML 2024)
----
 
 ## Overview
----
+
 This repository contains the official PyTorch implementation required to replicate the primary results presented in the paper "Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation" for ICML 2024.
 
 ## Setup Instructions
----
+
 This section provides a detailed guide to prepare the environment and execute the LAC project. Please adhere to the steps outlined below.
 
 ### 1. Environment Setup
@@ -38,7 +37,6 @@ This section provides a detailed guide to prepare the environment and execute th
      ```
 
 ## Execution Guidelines
----
 
 ### 1. Prepare the Environment
 
@@ -63,11 +61,11 @@ This section provides a detailed guide to prepare the environment and execute th
      ```
 
 ## Acknowledgments
----
+
 The implementation is heavily based on the MQBench framework, accessible at [MQBench Repository](https://github.com/ModelTC/MQBench).
 
 ## Citation
----
+
 Should this work assist your research, feel free to cite us via:
 
 ```
