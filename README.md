@@ -47,6 +47,7 @@ This section provides a detailed guide to prepare the environment and execute th
      ```
 
    - **Checkpoint Placement:**  
+     Download the full-precision model checkpoints (implanted with quantization-conditioned backdoors) from https://www.dropbox.com/scl/fo/pu3ja0djliie0pv70l3b2/h?rlkey=rg1op468jme1lrn7bjnkg06tf&dl=0. 
      Ensure the checkpoint file is stored correctly:
      ```
      ours/main/setting/checkpoint_malicious/pq_cifar_ckpt.pth
